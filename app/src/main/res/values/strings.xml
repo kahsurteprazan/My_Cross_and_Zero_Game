@@ -10,4 +10,9 @@
     <string name="rules_vertical">Ряд по вертикали</string>
     <string name="rules_horizontal">Ряд по вертикале</string>
     <string name="rules_diagonal">Ряд по вертикале</string>
+    <string name="dialog_menu">Меню</string>
+    <string name="dialog_continue">Продолжить игру</string>
+    <string name="dialog_settings">Настройки</string>
+    <string name="dialog_exit">Сохранить и выйти</string>
+    <string name="dialog_ok">ОК</string>
 </resources>
