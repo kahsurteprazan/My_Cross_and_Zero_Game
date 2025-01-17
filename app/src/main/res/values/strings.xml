@@ -6,7 +6,7 @@
     <string name="settings_sound">Звук</string>
     <string name="settings_difficulty">Сложность</string>
     <string name="settings_to_back">Назад</string>
-    <string name="settings_rules">Привала игры</string>
+    <string name="settings_rules">Правала игры</string>
     <string name="rules_vertical">Ряд по вертикали</string>
     <string name="rules_horizontal">Ряд по вертикале</string>
     <string name="rules_diagonal">Ряд по вертикале</string>
